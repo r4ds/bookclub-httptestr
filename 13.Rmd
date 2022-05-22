@@ -1,4 +1,4 @@
-# Preamble
+# CRAN- (and Bioconductor) preparedness for your tests
 
 **Learning objectives:**
 
