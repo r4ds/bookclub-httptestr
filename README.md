@@ -1,38 +1,18 @@
 # R4DS HTTP testing in R Book Club
 
-FIND/REPLACE httptestr, HTTP testing in R, https://books.ropensci.org/http-testing/, Scott Chamberlain and Maëlle Salmon, BOOKDAYS, and BOOKTIMECST THEN DELETE THIS SENTENCE.
-
-ALSO UPDATE THE MEETING TIME INFO BELOW AND DELETE THIS SENTENCE.
-
-ALSO ADD PLACEHOLDERS FOR ALL CHAPTERS BY COPYING 01.Rmd (IDEALLY ALSO UPDATE TITLES WITHIN THE FILES), THEN DELETE THIS SENTENCE.
+FIND/REPLACE BOOKDAYS, BOOKTIMECST, and TIMEANDDATEURL THEN DELETE THIS SENTENCE.
 
 Welcome to the R4DS HTTP testing in R Book Club!
 
 We are working together to read [_HTTP testing in R_](https://books.ropensci.org/http-testing/) by Scott Chamberlain and Maëlle Salmon.
-Join the #book_club-httptestr channel on the [R4DS Slack](https://r4ds.io/join) to participate.
+Join the [#book_club-httptestr](https://rfordatascience.slack.com/archives/C03G5P13A1Z) channel on the [R4DS Slack](https://r4ds.io/join) to participate.
 As we read, we are producing [notes about the book](https://r4ds.io/httptestr).
 
 ## Meeting Schedule
 
-If you would like to present, please add your name next to a chapter using the [GitHub Web Editor](https://youtu.be/d41oc2OMAuI)!
+If you would like to present, please see the sign-up sheet for your cohort (linked below, and pinned in the [#book_club-httptestr](https://rfordatascience.slack.com/archives/C03G5P13A1Z) channel on Slack)!
 
-*Cohort 1: DAY TBD, TIME TBD CST/CDT*
-
-<details>
-  <summary> Past Meetings </summary>
-  
-(none yet)
-</details>
-
-- 2022-MM-DD: Introduction (Chapters 1-4) - Jon Harmon
-- 2022-MM-DD: Use vcr & webmockr (Chapters 5-6) - Presenter TBD
-- 2022-MM-DD: Use httptest (Chapter 7) - Presenter TBD
-- 2022-MM-DD: vcr and httptest (Chapter 8) - Presenter TBD
-- 2022-MM-DD: Use httptest2 & Use webfakes (Chapters 9-10) - Presenter TBD
-- 2022-MM-DD: vcr (& webmockr), httptest, webfakes (Chapter 11) - Presenter TBD
-- 2022-MM-DD: Advanced Topics Part 1 (Chapters 12-13) - Presenter TBD
-- 2022-MM-DD: Advanced Topics Part 2 (Chapters 14-16) - Presenter TBD
-- 2022-MM-DD: Conclusion & Future Plans (Chapter 17) - Presenter TBD
+- [Cohort 1](https://docs.google.com/spreadsheets/d/1kKBnJ-e2cZCcBAOnF3NHT9iXzXmUTQGwN7eFPrLDsyQ/edit?usp=sharing) (started TBD): [BOOKDAYS, BOOKTIMECST CST/CDT](TIMEANDDATEURL) | [meeting videos](https://www.youtube.com/playlist?list=PL3x6DOfs2NGjbhtOKn_p-M-bfqTb6zx4H)
 
 <hr>
 
