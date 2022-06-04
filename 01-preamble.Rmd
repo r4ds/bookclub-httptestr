@@ -1,0 +1,23 @@
+# Preamble
+
+**Learning objectives:**
+
+- Recognize the packages for HTTP testing in R: `{vcr}`, `{webmockr}`, `{httptest}`, `{httptest2}`, and `{webfakes}`.
+- Confirm that you're ready to learn about HTTP testing in R.
+  - Do you know package-development basics?
+  - Can you work with git?
+
+
+## Meeting Videos
+
+### Cohort 1
+
+`r knitr::include_url("https://www.youtube.com/embed/URL")`
+
+<details>
+<summary> Meeting chat log </summary>
+
+```
+LOG
+```
+</details>
