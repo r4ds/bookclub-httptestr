@@ -1,0 +1,25 @@
+# Packages for HTTP testing
+
+**Learning objectives:**
+
+- Describe the challenges of HTTP testing in R packages.
+- Describe the basic functionality of the `{webmockr}` package.
+- Describe the basic functionality of the `{vcr}` package.
+- Describe the basic functionality of the `{httptest}` package.
+- Describe the basic functionality of the `{httptest2}` package.
+- Describe the basic functionality of the `{webfakes}` package.
+
+
+## Meeting Videos
+
+### Cohort 1
+
+`r knitr::include_url("https://www.youtube.com/embed/URL")`
+
+<details>
+<summary> Meeting chat log </summary>
+
+```
+LOG
+```
+</details>
