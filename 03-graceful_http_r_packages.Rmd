@@ -1,0 +1,27 @@
+# Graceful HTTP R packages
+
+**Learning objectives:**
+
+- Explain what it means for a package to be "graceful."
+  - Why is it important for an R package to be graceful?
+  - Is the web service you're using well maintained and well documented?
+  - Does your package avoid hitting the service too often?
+  - Do your vignettes and examples only run when they *have to* run?
+  - Do you reuse code whenever possible?
+  - Can your tests run without an internet connection?
+  - Do your tests check for success *and* errors?
+
+
+## Meeting Videos
+
+### Cohort 1
+
+`r knitr::include_url("https://www.youtube.com/embed/URL")`
+
+<details>
+<summary> Meeting chat log </summary>
+
+```
+LOG
+```
+</details>

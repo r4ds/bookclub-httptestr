@@ -1,0 +1,24 @@
+# HTTP in R 101
+
+**Learning objectives:**
+
+- Describe how information is exchanged using HyperText Transport Protocol (HTTP).
+  - Identify the components of an HTTP request.
+  - Identify the components of an HTTP response.
+- Recognize where you can learn more about HTTP.
+- Compare and contrast the packages for interacting with HTTP in R: `{curl}`, `{httr}`, `{httr2}`, and `{crul}`.
+
+
+## Meeting Videos
+
+### Cohort 1
+
+`r knitr::include_url("https://www.youtube.com/embed/URL")`
+
+<details>
+<summary> Meeting chat log </summary>
+
+```
+LOG
+```
+</details>
